@@ -1,2 +1,2 @@
 # github-info
-Basic CLI for interacting with github repos, data and apis
+Simple Go app to handle various tasks in GitHub with a simple CLI interface
